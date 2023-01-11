@@ -1,0 +1,21 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Proyecto final para el curso de backend de Coderhouse.",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "keywords": [
+    "proyecto-final",
+    "coderhouse",
+    "backend"
+  ],
+  "author": "Kitsunee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
